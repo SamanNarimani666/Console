@@ -1,0 +1,15 @@
+C:\Users\Saman\Desktop\ConsoleApp3\ConsoleApp11\bin\Debug\net7.0\ConsoleApp11.exe
+C:\Users\Saman\Desktop\ConsoleApp3\ConsoleApp11\bin\Debug\net7.0\ConsoleApp11.deps.json
+C:\Users\Saman\Desktop\ConsoleApp3\ConsoleApp11\bin\Debug\net7.0\ConsoleApp11.runtimeconfig.json
+C:\Users\Saman\Desktop\ConsoleApp3\ConsoleApp11\bin\Debug\net7.0\ConsoleApp11.dll
+C:\Users\Saman\Desktop\ConsoleApp3\ConsoleApp11\bin\Debug\net7.0\ConsoleApp11.pdb
+C:\Users\Saman\Desktop\ConsoleApp3\ConsoleApp11\obj\Debug\net7.0\ConsoleApp11.csproj.AssemblyReference.cache
+C:\Users\Saman\Desktop\ConsoleApp3\ConsoleApp11\obj\Debug\net7.0\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saman\Desktop\ConsoleApp3\ConsoleApp11\obj\Debug\net7.0\ConsoleApp11.AssemblyInfoInputs.cache
+C:\Users\Saman\Desktop\ConsoleApp3\ConsoleApp11\obj\Debug\net7.0\ConsoleApp11.AssemblyInfo.cs
+C:\Users\Saman\Desktop\ConsoleApp3\ConsoleApp11\obj\Debug\net7.0\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\Saman\Desktop\ConsoleApp3\ConsoleApp11\obj\Debug\net7.0\ConsoleApp11.dll
+C:\Users\Saman\Desktop\ConsoleApp3\ConsoleApp11\obj\Debug\net7.0\refint\ConsoleApp11.dll
+C:\Users\Saman\Desktop\ConsoleApp3\ConsoleApp11\obj\Debug\net7.0\ConsoleApp11.pdb
+C:\Users\Saman\Desktop\ConsoleApp3\ConsoleApp11\obj\Debug\net7.0\ConsoleApp11.genruntimeconfig.cache
+C:\Users\Saman\Desktop\ConsoleApp3\ConsoleApp11\obj\Debug\net7.0\ref\ConsoleApp11.dll
